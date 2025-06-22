@@ -1,6 +1,5 @@
 from PIL import Image
 
-
 ## Constants
 IMG_PATH = "img.jpg"
 PIXELS_ASCII = "@%#*+=-:. "
